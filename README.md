@@ -1,2 +1,2 @@
 # github-learn-basic
-learn github
+learn github.
